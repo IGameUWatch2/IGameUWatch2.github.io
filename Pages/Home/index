@@ -67,17 +67,17 @@ Home
 <section id="header">
 <div class="navbar">
   <section id="navbarwords">
-  <a href="../../Pages/Home/index.html">
+  <a href="../../Pages/Home/index">
   <img src="../../Data/navbarhomebutton.png" alt="Home" width="150" height="50">
   </a>
   </section>
   <section id="navbarwords2">
-  <a href="../../Pages/Events/index.html">
+  <a href="../../Pages/Events/index">
   <img src="../../Data/navbareventsbutton.png" alt="Events" width="150" height="50">
   </a>
   </section>
   <section id="navbarwords3">
-  <a href="../../Pages/AboutMe/index.html">
+  <a href="../../Pages/AboutMe/index">
   <img src="../../Data/navbaraboutmebutton.png" alt="About Me" width="200" height="50">
   </a>
   </section>
